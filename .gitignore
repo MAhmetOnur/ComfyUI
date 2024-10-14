@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+!/input/example.png
+/.vs
+.vscode/
+.idea/
+venv/
+.venv/
+/tests-ui/data/object_info.json
+*.log
+web_custom_versions/
+.DS_Store
+.env
